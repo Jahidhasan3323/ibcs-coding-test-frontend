@@ -1,10 +1,10 @@
 # IBCS-Primax coding test frontend
 
-##Clone the repository
+## Clone the repository
 
     git clone https://github.com/Jahidhasan3323/ibcs-coding-test-frontend.git
 
-##Switch to the repo folder
+## Switch to the repo folder
 
     cd ibcs-coding-test-frontend
 
@@ -29,11 +29,11 @@ set api end point
 
 ### Api Documentation Link
 
-###Authentications
+### Authentications
 https://documenter.getpostman.com/view/12789778/UVREj4kh
-###Product
+### Product
 https://documenter.getpostman.com/view/12789778/UVREj4kk
-###Order
+### Order
 https://documenter.getpostman.com/view/12789778/UVREj4kj
 
 
