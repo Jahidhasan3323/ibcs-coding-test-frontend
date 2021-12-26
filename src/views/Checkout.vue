@@ -150,6 +150,7 @@ export default {
             this.orderProcessing =false
           }).catch(error => {
             NotificationService.error(error.response.data.message);
+            this.orderProcessing =false
           })
         }
       }).catch(error => {
